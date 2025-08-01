@@ -138,7 +138,7 @@ gave a very bad r2 score ("-0.51"). So I worked on imoroving it's prediction pow
 'Lag_1', 'Lag_2', 'MA_4', 'MA_8' to hypothesize if CPI, unemployment, and fuel price have any impact on sales.</p>
 
 - The RMSE using Linear Regression was 135,392.49 and the R² Score using Linear Regression was 0.3287. These numbers don't represent isn't the best prediction accuracy, but I only used the linear regression model to find determine the coefficients of CPI, Unemployment and Fuel price and it's effect of weekly sales.
-- The three had positive effects on sales, more insights of these results and theor interpretation in the notebook.
+- The three had positive effects on sales, more insights of these results and their interpretation in the notebook.
 
 
 
